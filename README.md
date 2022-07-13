@@ -4,6 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Viacheslav;I+work+as+a+QA+Engineer;Nice+to+meet+you+All!&font=Fira%20Code&center=true&width=650&height=50&color=9FC00&vCenter=true&size=26"></a>
 </p>
-<tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+
 
 
