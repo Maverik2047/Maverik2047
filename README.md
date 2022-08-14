@@ -5,7 +5,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Viacheslav;I+work+as+a+QA+Engineer;Nice+to+meet+you+All!&font=Fira%20Code&center=true&width=650&height=50&color=9FC00&vCenter=true&size=26"></a>
 </p>
 <a href="https://www.linkedin.com/in/viacheslavdrobyshev/">
+  
 ### :🚀: Teck stacks :
+  
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -14,9 +16,7 @@
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp;
- height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
+ <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
