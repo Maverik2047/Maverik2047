@@ -6,7 +6,7 @@
 </p>
 <a href="https://www.linkedin.com/in/viacheslavdrobyshev/">
   
-### :🚀: Teck stacks :
+### 🚀 My tech stacks :
   
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
