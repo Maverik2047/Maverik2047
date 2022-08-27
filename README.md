@@ -9,6 +9,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+  ### Intro:
+  Before becoming a QA Engineer, I’d changed several positions. My past experience has been very helpful in my present work
+   - 🔋: Dec 2021 - Present
+   QA Engineer at Sberbank
+   - 📗: Executing back-end and front-end testing of high loaded bank system as well as integration testing of micro-service based products.
+  
+  ### My Diploma Projects at QA GURU Test Automation School
+  
+  |Project name                                 |GitHub links                                     
+  |---------------------------------------------|-------------------------------------------------------------------|
+  | Project UI tests                            | https://github.com/Maverik2047/johnnie-walker-project-ui-tests    |  
+  | Project API tests                           | https://github.com/Maverik2047/users-bugred-project-api-tests     |  
+  | Project Mobile tests                        | https://github.com/Maverik2047/mobile-tests                       |  
+  
+  
+  
+  
 ### 🚀 My tech stacks :
   
 <div>
