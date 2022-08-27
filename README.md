@@ -13,7 +13,7 @@
   Before becoming a QA Engineer, I’d changed several positions. My past experience has been very helpful in my present work
    - 🔋: Dec 2021 - Present
    QA Engineer at Sberbank
-   - 📗: Executing back-end and front-end testing of high loaded bank system as well as integration testing of micro-service based products.
+   - 📗: Executing back-end and front-end testing of high loaded bank system as well as integration testing of micro-service based products
   
   ### My Diploma Projects at QA GURU Test Automation School
   
