@@ -19,8 +19,8 @@
   
   |Project name                                 |GitHub links                                     
   |---------------------------------------------|-------------------------------------------------------------------|
-  | Projects UI tests                           | https://github.com/Maverik2047/johnnie-walker-project-ui-tests    |
-  |                                             | https://github.com/Maverik2047/IBS_tests_extended                 |
+  | Project_1 UI tests                          |https://github.com/Maverik2047/johnnie-walker-project-ui-tests     |
+  | Project_2 UI tests                          | https://github.com/Maverik2047/IBS_tests_extended                 |
   | Project API tests                           | https://github.com/Maverik2047/users-bugred-project-api-tests     |  
   | Project Mobile tests                        | https://github.com/Maverik2047/mobile-tests                       |  
   
